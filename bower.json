@@ -1,0 +1,22 @@
+{
+  "name": "jquery-session-plugin",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Chittock <alex@monsterhq.co.uk>",
+    "Eddie Fisher <eddi.fisher@gmail.com>"
+  ],
+  "description": "jquery session plugin",
+  "main": "jquery.session.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
